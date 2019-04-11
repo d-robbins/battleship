@@ -1,0 +1,17 @@
+﻿  main.cpp
+c:\users\david\desktop\cpsc230\cpsc230_battleship_project\cpsc230_battleship_project\main.cpp(75): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\desktop\cpsc230\cpsc230_battleship_project\cpsc230_battleship_project\main.cpp(160): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\desktop\cpsc230\cpsc230_battleship_project\cpsc230_battleship_project\main.cpp(181): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\desktop\cpsc230\cpsc230_battleship_project\cpsc230_battleship_project\main.cpp(201): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\desktop\cpsc230\cpsc230_battleship_project\cpsc230_battleship_project\main.cpp(214): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\desktop\cpsc230\cpsc230_battleship_project\cpsc230_battleship_project\main.cpp(167): warning C4101: '_end_col': unreferenced local variable
+c:\users\david\desktop\cpsc230\cpsc230_battleship_project\cpsc230_battleship_project\main.cpp(168): warning C4101: '_end_row': unreferenced local variable
+c:\users\david\desktop\cpsc230\cpsc230_battleship_project\cpsc230_battleship_project\main.cpp(282): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\desktop\cpsc230\cpsc230_battleship_project\cpsc230_battleship_project\main.cpp(326): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\desktop\cpsc230\cpsc230_battleship_project\cpsc230_battleship_project\main.cpp(331): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\desktop\cpsc230\cpsc230_battleship_project\cpsc230_battleship_project\main.cpp(387): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\desktop\cpsc230\cpsc230_battleship_project\cpsc230_battleship_project\main.cpp(407): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\desktop\cpsc230\cpsc230_battleship_project\cpsc230_battleship_project\main.cpp(459): warning C4018: '<': signed/unsigned mismatch
+c:\users\david\desktop\cpsc230\cpsc230_battleship_project\cpsc230_battleship_project\main.cpp(474): warning C4018: '<': signed/unsigned mismatch
+  CPSC230_Battleship_Project.vcxproj -> C:\Users\David\Desktop\CPSC230\CPSC230_Battleship_Project\Debug\CPSC230_Battleship_Project.exe
+  CPSC230_Battleship_Project.vcxproj -> C:\Users\David\Desktop\CPSC230\CPSC230_Battleship_Project\Debug\CPSC230_Battleship_Project.pdb (Partial PDB)
